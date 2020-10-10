@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3dfec97-eb60-4440-b1a9-da0659ac2f52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dem0-module-1/dem0-module-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dem0-module-1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dem0-module-1/src/main/java/test/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dem0-module-1/src/main/java/test/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602313416307</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="这是第二次提交">
+      <created>1602314738850</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602314738850</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,21 +129,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是第一次提交" />
+    <MESSAGE value="这是第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是第二次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Project_Structure" timestamp="1602313271895">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1602313271895" />
-    <state x="325" y="9" key="CommitChangelistDialog2" timestamp="1602313415173">
+    <state x="325" y="9" key="CommitChangelistDialog2" timestamp="1602314738022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="325" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602313415173" />
+    <state x="325" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602314738022" />
     <state x="182" y="70" width="1228" height="686" key="DiffContextDialog" timestamp="1602313662588">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="182" y="70" width="1228" height="686" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602313662588" />
+    <state x="470" y="130" key="MultipleFileMergeDialog" timestamp="1602315423796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="130" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1602315423796" />
     <state x="472" y="135" key="RollbackChangesDialog" timestamp="1602313592752">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -149,10 +157,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="494" y="119" key="VCS.ChangeListViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1602313648772" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1602313420894">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1602314742899">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602313420894" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602314742899" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602314422379">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1602314422379" />
     <state x="2" y="108" key="new project wizard" timestamp="1602313235263">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
